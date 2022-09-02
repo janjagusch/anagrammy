@@ -1,0 +1,13 @@
+name: anagrammy
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - pip
+  - pre-commit
+  - pytest
+  - pytest-cov
+  - setuptools_scm
+  - kaggle
+  - python
+  - pandas
